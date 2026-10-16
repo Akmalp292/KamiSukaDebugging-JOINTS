@@ -76,6 +76,17 @@ Data WHO: unduh tabel Z-score (xlsx) dari WHO ke satu folder, lalu `node scripts
 - Hasil pelacak dan jawaban AI adalah skrining awal dan informasi umum, bukan diagnosis.
 - Transkrip chat untuk ringkasan dikirim ke Google AI Studio.
 
+## Our Contributors
+
+Mahasiswa **BINUS University**, Tim KamiSukaDebugging:
+
+- Akmal Dwi Putra Mahardika (Ketua)
+- Andi Siti Maryam Shaskirana
+- David Brainard Lumban Tobing
+- Rifa Naftali Azka
+
 ## Lisensi
 
 MIT © Tim KamiSukaDebugging, Universitas Bina Nusantara
+
+
