@@ -6,7 +6,6 @@ Aplikasi mobile-first untuk mendukung pencegahan stunting: pelacak pertumbuhan a
 Ketua: Akmal Dwi Putra Mahardika · Anggota: Andi Siti Maryam Shaskirana, Rifa Naftali Azka
 Dosen Pembimbing: Gabriel Asael Tarigan, S.Kom., M.Kom.
 
-- Aplikasi: https://stuntingcare.my.id/
 - Video demo: [isi tautan video demo versi terbaru]
 
 ## Fitur
